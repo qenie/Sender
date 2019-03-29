@@ -3,10 +3,10 @@ import datetime
 
 TEXT_MESSAGE = ''''Уважаемый(ая) {0}
 
-               Позвольте от лица компании "Аурига" поздравить вас с Днем Рождения!
+               Позвольте от лица компании "Company" поздравить вас с Днем Рождения!
                Желаем вам всего хорошего в карьере, личной жизни и здоровья!
 
-               Auriga — The Russian Software Engineering Expertise — Delivered Worldwide'''
+               Company — The Russian Software Engineering Expertise — Delivered Worldwide'''
 
 
 def extract_emp_data():
